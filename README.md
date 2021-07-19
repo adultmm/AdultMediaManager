@@ -7,8 +7,12 @@ Implemented sources: AdultDVDEmpire, TMDB, Brazzers.com, BangBros.com, DogfartNe
 I hope, you'll find it useful.
 
 # Installation
+
+**Compatible with x64 v1.9.x versions only!** EMM is a portable app, so you can easily use different versions for your movies and adult content.
+
 Two versions are available:
 * Bundled version: Just download, extract and use.
-* EMM Plugin version: Extract it under your EmberMediaManager/Module folder, then enable AdultScraper under Edit/Settings/Movies. (Compatible with x64 versions only, tested with v1.9.2.)
+* EMM Plugin version: Extract it under your EmberMediaManager/Module folder, then enable AdultScraper under Edit/Settings/Movies. 
+
 
 Download and unpack the [latest release](https://github.com/adultmm/AdultMediaManager/releases) to your machine.
