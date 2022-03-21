@@ -2,9 +2,9 @@
 
 I've started to develop a new scraper for Adult Movies and Videos. Any remarks or suggestions are very welcome. 
 
-Implemented sources: AdultDVDEmpire, TMDB, Brazzers.com, BangBros.com, DogfartNetwork.com, Kink.com, NaughtyAmerica.com, RealityKings.com. The full list can be found [here](https://github.com/adultmm/AdultMediaManager/wiki/Scraper-sources-%E2%80%A2-the-full-list). I'm working on implementing more, and you also can ask for your favorite.
+Implemented sources: AdultDVDEmpire, TMDB, Brazzers.com, BangBros.com, DogfartNetwork.com, Kink.com, NaughtyAmerica.com, RealityKings.com. Almost 1000 sites are supported. [Check the full list here!](https://github.com/adultmm/AdultMediaManager/wiki/Scraper-sources-%E2%80%A2-the-full-list) I'm working on implementing more, and you also can [ask for your favourite](https://github.com/adultmm/AdultMediaManager/issues/new).
 
-If you like my software you can <a href="https://www.paypal.com/donate/?hosted_button_id=8AN7JHZZWTFQA" target="_blank">buy me a beer</a>!
+If you like my software, you can <a href="https://www.paypal.com/donate/?hosted_button_id=8AN7JHZZWTFQA" target="_blank">buy me a beer</a>!
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=8AN7JHZZWTFQA" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Buy Me A Beer" style="height: 30px !important;width: 108px !important;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/adultmm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;"></a>&nbsp;&nbsp;&nbsp;&nbsp;[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W47ACEZ)
 
