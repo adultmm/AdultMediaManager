@@ -2,7 +2,7 @@
 
 I've started to develop a new scraper for Adult Movies and Videos. Any remarks or suggestions are very welcome. 
 
-Implemented sources: AdultDVDEmpire, TMDB, Brazzers.com, BangBros.com, DogfartNetwork.com, Kink.com, NaughtyAmerica.com, RealityKings.com. Almost 1000 sites are supported. [Check the full list here!](https://github.com/adultmm/AdultMediaManager/wiki/Scraper-sources-%E2%80%A2-the-full-list) I'm working on implementing more, and you also can [ask for your favourite](https://github.com/adultmm/AdultMediaManager/issues/new).
+Implemented sources: AdultDVDEmpire, TMDB, Brazzers.com, BangBros.com, DogfartNetwork.com, Kink.com, NaughtyAmerica.com, RealityKings.com. More than 1000 sites are supported. [Check the full list here!](https://github.com/adultmm/AdultMediaManager/wiki/Scraper-sources-%E2%80%A2-the-full-list) I'm working on implementing more, and you also can [ask for your favourite](https://github.com/adultmm/AdultMediaManager/issues/new).
 
 If you like my software, you can <a href="https://www.paypal.com/donate/?hosted_button_id=8AN7JHZZWTFQA" target="_blank">buy me a beer</a>! Thanks
 
